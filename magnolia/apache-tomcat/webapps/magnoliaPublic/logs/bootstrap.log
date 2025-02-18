@@ -1,0 +1,19 @@
+INFO  17.02.2025 12:21:42  Trying to initialize repositories from: \n    /Users/jessicaapfel/apps/git/minimal-headless-spa-demos/magnolia/apache-tomcat/webapps/magnoliaPublic/WEB-INF/bootstrap/public\n    /Users/jessicaapfel/apps/git/minimal-headless-spa-demos/magnolia/apache-tomcat/webapps/magnoliaPublic/WEB-INF/bootstrap/common
+INFO  17.02.2025 12:21:42  Repository [dam] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [keystore] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [usergroups] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [magnolia-mgnlSystem] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [scripts] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [tours] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [website] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [magnolia-mgnlVersion] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [userroles] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [profiles] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [users] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [tasks] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [imaging] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [category] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [default] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [resources] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [messages] has been initialized.
+INFO  17.02.2025 12:21:42  Repository [config] has been initialized.
