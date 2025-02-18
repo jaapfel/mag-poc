@@ -6,18 +6,6 @@
 
 Build and deploy the SPA to make it available for editing.
 
-### React
-
-Go to `/spa/react-minimal` on the terminal and run `npm install`, and then `npm run deploy:mgnl`.
-
-***You may need to change the `deploy:mgnl` script according to your file structure.***
-
-Once built, check that the app is deployed to `magnolia/light-modules/react-minimal-lm/webresources/build`.
-
-See the `.env` files for important configurations.
-
-In `/magnolia/react-minimal-lm/templates/pages/basic.yaml` and `/contact.yaml`, comment out the `baseUrl` and `routeTemplate` lines, and comment ***in*** the `templateScript` line.
-
 
 ### Angular
 
@@ -30,13 +18,3 @@ See the files in `/src/environments` for important configurations.
 
 In `/magnolia/angular-minimal-lm/templates/pages/basic.yaml` and `/contact.yaml`, comment out the `baseUrl` and `routeTemplate` lines, and comment ***in*** the `templateScript` line.
 
-
-### Vue
-
-Go to `/spa/vue-minimal` on the terminal and run `npm install`, and then `npm run deploy:mgnl`.
-
-Once built, check that the app is deployed to `magnolia/light-modules/vue-minimal-lm/webresources/dist`.
-
-See the `.env` files for important configurations.
-
-In `/magnolia/vue-minimal-lm/templates/pages/basic.yaml` and `/contact.yaml`, comment out the `baseUrl` and `routeTemplate` lines, and comment ***in*** the `templateScript` line.
